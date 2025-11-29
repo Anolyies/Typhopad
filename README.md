@@ -40,7 +40,7 @@ Firmare was not really made by me, it was made primarilly by Chet Gippiti (ChatG
 - 2x SK6812 MINI Leds
 - 1x 1x 0.91" 128x32 OLED Display
 - 1x EC11 Rotary encoders
-- 1x Case [2 printed parts(Bottom case and Top case
+- 1x Case [2 printed parts(Bottom case and Top case)]
 
 ##
 
