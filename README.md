@@ -23,12 +23,27 @@ This design follows the tutorial really pretty closely with only a few differenc
 
 I add the PCB with wiring,soldering, and etc... Into the bottom case. 4x M3x16mm screws go through the bottom of the cas, then I use 4x M3x5mx4mm heatset inserts to secure the screws. The add the keycaps and boom done.
 
+Firmware:
+----------------------------------
+Firmare was not really made by me, it was made primarilly by Chet Gippiti (ChatGPT). I also dont know if it works, so when I get my own board, I'll test and see if it works and fix it if it doesn't.
+[My Firmware Folder](./firmware)
+
 ##
 
 I don't know how well, or if any of this even works, but regardless, I think I learned a decent bit and did something cool that I've never done before.
 
 **BOM**
 ------------------------------------
+
+- 4x Cherry MX Switches
+- 4x DSA Keycaps
+- 4x M3 Heatset
+- 4x M3x16mm Bolts
+- 1x XIAO RP2040
+- 2x SK6812 MINI Leds
+- 1x 1x 0.91" 128x32 OLED Display
+- 1x EC11 Rotary encoders
+- 1x Case [3 printed parts(Bottom case, Top case, Knob]
 
 
 
