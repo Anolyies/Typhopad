@@ -4,7 +4,7 @@ A Starter Hackpad Project | By Anolyies
 <img src="https://i.imgur.com/0Eew5cb.png" width="400" /> <img src="https://i.imgur.com/TLbMUMx.png" width="400" />
 
 **A Short Rant**
-I used Solidworks rather than Fusion360, the assembly part of the case was really annoying, I didn't know what to do, and the tutorials online weren't great, but I got it done alright, I think.
+I used Solidworks rather than Fusion360, the assembly part of the case was really annoying, I didn't know what to do, and the tutorials online weren't great, but I got it done alright, I think. Also, colors in the images look terible, because I added them last second.
 
 The Schematic / PCB:
 -------------------------------
@@ -40,7 +40,7 @@ Firmare was not really made by me, it was made primarilly by Chet Gippiti (ChatG
 - 2x SK6812 MINI Leds
 - 1x 1x 0.91" 128x32 OLED Display
 - 1x EC11 Rotary encoders
-- 1x Case [3 printed parts(Bottom case, Top case, Knob]
+- 1x Case [2 printed parts(Bottom case and Top case
 
 ##
 
