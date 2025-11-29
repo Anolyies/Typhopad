@@ -1,4 +1,4 @@
 # Typhopad
 A Starter Hackpad Project | By Anolyies
 
-<img src="https://imgur.com/a/6iSYRJ5" width="400" />
+<img src="https://i.imgur.com/fdyIf6e.png" width="400" />
