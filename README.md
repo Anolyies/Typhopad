@@ -28,9 +28,6 @@ Firmware:
 Firmare was not really made by me, it was made primarilly by Chet Gippiti (ChatGPT). I also dont know if it works, so when I get my own board, I'll test and see if it works and fix it if it doesn't.
 [Check out the code and setup](./Firmware)
 
-##
-
-I don't know how well, or if any of this even works, but regardless, I think I learned a decent bit and did something cool that I've never done before.
 
 **BOM**
 ------------------------------------
@@ -44,6 +41,10 @@ I don't know how well, or if any of this even works, but regardless, I think I l
 - 1x 1x 0.91" 128x32 OLED Display
 - 1x EC11 Rotary encoders
 - 1x Case [3 printed parts(Bottom case, Top case, Knob]
+
+##
+
+I don't know how well, or if any of this even works, but regardless, I think I learned a decent bit and did something cool that I've never done before.
 
 
 
