@@ -9,7 +9,7 @@ I used Solidworks rather than Fusion360, the assembly part of the case was reall
 **The Schematic / PCB**
 -------------------------------
 *Schematic*                                              | *PCB*
-<img src="https://i.imgur.com/yaeeQWo.png" width="400"   <img src="https://i.imgur.com/xvw0Niq.png" width="400"
+<img src="https://i.imgur.com/yaeeQWo.png" width="400" />   <img src="https://i.imgur.com/xvw0Niq.png" width="400" />
 
 
 
