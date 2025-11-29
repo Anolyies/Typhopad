@@ -1,2 +1,2 @@
 # Typhopad
-A Starter Hackpad Project |
+A Starter Hackpad Project | By Anolyies
