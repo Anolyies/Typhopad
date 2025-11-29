@@ -1,0 +1,11 @@
+MCU = RP2040
+BOARD = sparkfun_promicro_rp2040
+
+BOOTLOADER = uf2
+
+OLED_ENABLE = yes
+OLED_DRIVER = SSD1306
+ENCODER_ENABLE = yes
+RGBLIGHT_ENABLE = yes
+
+WS2812_DRIVER = vendor
