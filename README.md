@@ -26,7 +26,7 @@ I add the PCB with wiring,soldering, and etc... Into the bottom case. 4x M3x16mm
 Firmware:
 ----------------------------------
 Firmare was not really made by me, it was made primarilly by Chet Gippiti (ChatGPT). I also dont know if it works, so when I get my own board, I'll test and see if it works and fix it if it doesn't.
-[My Firmware Folder](./firmware)
+[My Firmware Folder](./Firmware)
 
 ##
 
