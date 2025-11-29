@@ -1,1 +1,1 @@
-[Check out the code and setup](./Firmware)
+[The Firmware](./Firmware)
