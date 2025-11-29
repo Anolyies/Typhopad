@@ -1,0 +1,28 @@
+{
+    "keyboard_name": "seed_rp2040_dip",
+    "keymap_name": "default",
+    "matrix": {
+        "rows": 1,
+        "cols": 4
+    },
+    "direct_pins": [
+        ["GP1"],
+        ["GP2"],
+        ["GP4"],
+        ["GP3"]
+    ],
+    "encoder_pins": {
+        "A": ["GP28"],
+        "B": ["GP29"]
+    },
+    "oled": {
+        "sda": "GP6",
+        "scl": "GP7",
+        "width": 128,
+        "height": 32
+    },
+    "leds": {
+        "data_pin": "GP26",
+        "count": 2
+    }
+}
