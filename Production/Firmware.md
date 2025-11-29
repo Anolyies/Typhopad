@@ -1,1 +1,1 @@
-[The Firmware](.Typhopad/Firmware)
+[The Firmware](../Firmware)
